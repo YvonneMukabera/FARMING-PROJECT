@@ -1,0 +1,30 @@
+/* Removes unwanted styling from the page */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: none;
+  max-width: 100%;
+}
+     body{
+    background: rgb(9, 9, 57);
+    text-align: center;
+    color: rgb(243, 245, 247);
+    padding-top: 30px;
+ }
+ button{
+    border-radius: 50px;
+    display:inline;
+    margin-right: 20px;
+ }
+  footer{
+  background: #0d0d0d;
+  text-align: center;
+  color: white;
+  width: 100%;
+  }
+
+ 
